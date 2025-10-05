@@ -58,7 +58,7 @@ You can explore the live interactive Tableau dashboard here 👉
 **Navithaa Sree R**  
 Data Science & Visualization Enthusiast  
 
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-link-here)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/navithaasreer/)
 
 ---
 
