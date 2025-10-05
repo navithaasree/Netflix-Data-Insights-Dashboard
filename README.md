@@ -50,7 +50,7 @@ You can explore the live interactive Tableau dashboard here 👉
 ---
 
 ### ### 📷 Dashboard Preview
-![Netflix Dashboard Screenshot](dashboard.png)
+![Netflix Dashboard Screenshot](<img width="1792" height="853" alt="dashborad" src="https://github.com/user-attachments/assets/1ae1b32c-75f6-4e4b-8448-f47457f750f5" />)
 
 ---
 
